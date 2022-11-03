@@ -4,6 +4,7 @@ This is a random password generator build using python.
 Password is generated in encrypted file using AES Encryption by generating keys.
 The password is secured and without the key no one can decrypt the encrypted password.
 </h4>
+
 #### Modules Used:
 <ul>
 <li>PyQt5 </li> For Graphical User Interface (GUI)
